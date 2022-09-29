@@ -1,1 +1,1 @@
-# [Home](https://github.com/ValorantExternal/home)
+![Header](https://raw.githubusercontent.com/ValorantExternal/ValorantExternal/main/Files/Home/header.jpg)
