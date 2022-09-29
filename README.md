@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ValorantExternal/ValorantExternal/main/Files/Home/header.jpg)](https://github.com/ValorantExternal/Home/blob/main/README.md)
-<p align="center">
-<a href="https://github.com/ValorantExternal/Home/blob/main/README.md">Home</a>
-</p>
+[![Header](https://raw.githubusercontent.com/ValorantExternal/ValorantExternal/main/Files/Home/header.jpg)](#top)
+
+| [Home](https://github.com/ValorantExternal/home) • [Gallery](https://github.com/ValorantExternal/gallery) • [Support](https://github.com/ValorantExternal/support) • [Frequently asked questions](https://github.com/ValorantExternal/faq) |
+:----------------------------------------------------------: |
