@@ -1,5 +1,9 @@
+<h1 id="kxs" align="center">🗿 ValorantExternal 🗿</h1>
+
+<h2 id="kys" align="center"><kbd>An external valorant aimbot made by ValorantExternal for educational purposes (im still learning)</kbd></h2>
+
+---
+
 [![Header](https://raw.githubusercontent.com/ValorantExternal/ValorantExternal/main/Image%20Files/header.jpg)](#top)
 
-<h2 id="title" align="center">Written in C/#/++</h2>
-<p id="soon" align="center">soon™</p>
-
+---
